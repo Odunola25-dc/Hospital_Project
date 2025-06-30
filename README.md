@@ -6,11 +6,11 @@ This Power BI project analyzes hospital and patient data to deliver actionable i
 
 The *Hospital and Patient Dashboard* provides a clear, interactive view of:
 
-- 🏨 Hospital performance metrics
-- 👥 Patient admissions and discharges
-- 📅 Time-based trends (monthly/yearly comparisons)
-- 🧑‍⚕ Departmental activities
-- ⚕ Healthcare resource utilization
+-  Hospital performance metrics
+-  Patient admissions and discharges
+-  Time-based trends (monthly/yearly comparisons)
+-  Departmental activities
+- Healthcare resource utilization
 
 
 
@@ -26,7 +26,7 @@ The *Hospital and Patient Dashboard* provides a clear, interactive view of:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 | Tool          | Purpose                          |
 |---------------|----------------------------------|
@@ -46,7 +46,7 @@ The *Hospital and Patient Dashboard* provides a clear, interactive view of:
 
 ---
 
-## ✅ Key Takeaways
+##  Key Takeaways
 
 - Insightful visualization of patient traffic and hospital operations.
 - Data-driven decisions for staffing, resource allocation, and departmental performance.
